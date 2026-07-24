@@ -151,9 +151,9 @@ docs/
 02-functional-requirements.md
 
 03-non-functional-requirements.md
-03.1-user-stories.md
-03.2-use-cases.md
-03.3-business-rules.md
+    03.1-user-stories.md
+    03.2-use-cases.md
+0   3.3-business-rules.md
 
 04-domain-analysis.md
 
